@@ -1,0 +1,5 @@
+Privacy and Policy
+- This app is fully offline and not collect any user data.
+- No sync to network function included.
+- No ads and totally free.
+- We are not responsible for any demage and data lost.
